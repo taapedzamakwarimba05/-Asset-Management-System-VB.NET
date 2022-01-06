@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Progress Asset Management System", "Library\Progress Asset Management System.vbproj", "{26A21C29-7263-4681-969D-8B2B50300AAB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PCCAMS", "PCCAMS\PCCAMS.vdproj", "{C81DAC73-F5B0-472E-B556-81D62F36AA10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26A21C29-7263-4681-969D-8B2B50300AAB}.Debug|x86.ActiveCfg = Debug|x86
+		{26A21C29-7263-4681-969D-8B2B50300AAB}.Debug|x86.Build.0 = Debug|x86
+		{26A21C29-7263-4681-969D-8B2B50300AAB}.Release|x86.ActiveCfg = Release|x86
+		{26A21C29-7263-4681-969D-8B2B50300AAB}.Release|x86.Build.0 = Release|x86
+		{C81DAC73-F5B0-472E-B556-81D62F36AA10}.Debug|x86.ActiveCfg = Debug
+		{C81DAC73-F5B0-472E-B556-81D62F36AA10}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A8650C9-432F-4643-8E32-7952AAA20686}
+	EndGlobalSection
+EndGlobal
